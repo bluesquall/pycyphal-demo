@@ -1,0 +1,7 @@
+
+repositories:
+
+  public_regulated_data_types:
+    type: git
+    url: git@github.com:OpenCyphal/public_regulated_data_types.git
+    version: master
